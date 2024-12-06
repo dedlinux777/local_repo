@@ -6,3 +6,4 @@ if(age<10):
 else:
     print("Greater than 10")
 print("Hello")
+print("HI")
